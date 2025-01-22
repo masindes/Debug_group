@@ -2,5 +2,9 @@
   {
     "type": "sqlite",
     "path": "/home/steve/Development/Flask/class_work/prac/instance/employees.db"
+  },
+  {
+    "type": "sqlite",
+    "path": "/Users/mac/development/code/se-prep/phase-4/Debug_group/instance/employees.db"
   }
 ]
